@@ -34,22 +34,22 @@ Table of Contents
 Business Rules
 --------------
 
-### 1. Introduction
+### 1. Introduction <a name="introduction"></a>
 [The introduction of the Business Rules should provide an overview of the entire document.  Present any information the reader might need to understand the document in this section. This document is used to define terminology specific to the problem domain, explaining terms which may be unfamiliar to the reader of the use-case descriptions or other project documents.  Often, this document can be used as an informal data dictionary, capturing data definitions so that use-case descriptions and other project documents can focus on what the system must do with the information.  This document should be saved in a file called Business Rules.]
 
-#### 1.1 Purpose
+#### 1.1 Purpose <a name="purpose"></a>
 [Specify the purpose of this document.]
 
-#### 1.2 Scope
+#### 1.2 Scope <a name="scope"></a>
 [A brief description of the scope of this Business Rules document; what Project(s) it is associated with, and anything else that is affected or influenced by this document.]
 
-#### 1.3 References
+#### 1.3 References <a name="references"></a>
 [This subsection should provide a complete list of all documents referenced elsewhere in the Business Rules document.  Each document should be identified by title, report number (if applicable), date, and publishing organization.  Specify the sources from which the references can be obtained. This information may be provided by reference to an appendix or to another document.]
 
-#### 1.4 Overview
+#### 1.4 Overview <a name="overview"></a>
 [This subsection should describe what the rest of the Business Rules document contains and explain how the document is organized.]
 
-### 2. Definitions
+### 2. Definitions <a name="definitions"></a>
 [The terms defined here form the essential substance of the document.  They can be defined in any order desired, but generally alphabetic order provides the greatest accessibility.]
 
 #### 2.1 <aBusinessRule>
@@ -75,4 +75,3 @@ Business Rules
 
 ##### 2.4.2 <andAnotherGroupBusinessRule>
 [The definition for the term is presented here, with as much information as the reader needs to understand the concept.]
-<a name="introduction"></a>

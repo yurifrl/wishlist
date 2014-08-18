@@ -16,13 +16,13 @@ Revision History
 
 Table of Contents
 -----------------
-1. [Introduction](#Introduction)
-    1. [Purpose](#Purpose)
-    2. [Scope](#Scope)
-    3. [Definitions, Acronyms, and Abbreviations](#Definitions, Acronyms, and Abbreviations)
-    4. [References](#References)
-    5. [Overview](#Overview)
-2. [Positioning](#Positioning)
+1. [Introduction](#introduction)
+    1. [Purpose](#purpose)
+    2. [Scope](#scope)
+    3. [Definitions, Acronyms, and Abbreviations](#definitions)
+    4. [References](#references)
+    5. [Overview](#overview)
+2. [Positioning](#positioning)
     1. [Business Opportunity](#Business Opportunity)
     2. [Problem Statement](#Problem Statement)
     3. [Product Position Statement](#Product Position Statement)
@@ -53,31 +53,31 @@ Table of Contents
 Business Vision
 ---------------
 
-1. Introduction
+1. Introduction <a name="#introduction"></a>
 
 The introduction of the Business Vision provides an overview of the entire document. It includes the purpose, scope, definitions, acronyms, abbreviations, references, and overview of the Business Vision.]
 
-1.1 Purpose
+1.1 Purpose <a name="#purpose"></a>
 
 [Specify the purpose of this Business Vision document.]
 
-1.2 Scope
+1.2 Scope <a name="#scope"></a>
 
 [A brief description of the scope of this Business Vision document; what Project(s) it is associated with and anything else that is affected or influenced by this document.]
 
-1.3 Definitions, Acronyms, and Abbreviations
+1.3 Definitions, Acronyms, and Abbreviations <a name="#definitions"></a>
 
 [This subsection provides the definitions of all terms, acronyms, and abbreviations required to properly interpret the Business Vision document.  This information may be provided by reference to the project's Glossary.]
 
-1.4 References
+1.4 References <a name="#references"></a>
 
 [This subsection provides a complete list of all documents referenced elsewhere in the Business Vision.  Identify each document by title, report number if applicable, date, and publishing organization.  Specify the sources from which the references can be obtained. This information may be provided by reference to an appendix or to another document.]
 
-1.5 Overview
+1.5 Overview <a name="#overview"></a>
 
 [This subsection describes what the rest of the Business Vision contains and explains how the document is organized.]
 
-2.    Positioning
+2.    Positioning <a name="#positioning"></a>
 
 2.1 Business Opportunity
 
