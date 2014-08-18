@@ -8,11 +8,11 @@ Business Rules
 Revision History
 ----------------
 
-|    Date    	| Version 	| Description 	| Author 	|
-|:----------:	|:-------:	|:-----------:	|:------:	|
-| <dd/mm/yy> 	|  <x.x>  	|  <details>  	| <name> 	|
-|            	|         	|             	|        	|
-|            	|         	|             	|        	|
+|    Date       | Version   | Description   | Author    |
+|:----------:   |:-------:  |:-----------:  |:------:   |
+| <dd/mm/yy>    |  <x.x>    |  <details>    | <name>    |
+|               |           |               |           |
+|               |           |               |           |
 
 Table of Contents
 -----------------
@@ -21,15 +21,15 @@ Table of Contents
     2. [Scope](#scope)
     3. [References](#references)
     4. [Overview](#overview)
-2. [Definitions](#Definitions)
-	1. [<aBusinessRule>](#aBusinessRule)
-	2. [<anotherBusinessRule>](#anotherBusinessRule)
-	3. [<aGroupofBusinessRules>](#aGroupofBusinessRules)
-		1. [<aGroupBusinessRule>](#aGroupBusinessRule)
-		2. [<anotherGroupBusinessRule>](#anotherGroupBusinessRule)
-	4. [<aSecondGroupOfBusinessRules>](#aSecondGroupOfBusinessRules)
-		1. [<yetAnotherGroupBusinessRule>](#yetAnotherGroupBusinessRule)
-		2. [<andAnotherGroupBusinessRule>](#andAnotherGroupBusinessRule)
+2. [Definitions](#definitions)
+    1. [<aBusinessRule>](#aBusinessRule)
+    2. [<anotherBusinessRule>](#anotherBusinessRule)
+    3. [<aGroupofBusinessRules>](#aGroupofBusinessRules)
+        1. [<aGroupBusinessRule>](#aGroupBusinessRule)
+        2. [<anotherGroupBusinessRule>](#anotherGroupBusinessRule)
+    4. [<aSecondGroupOfBusinessRules>](#aSecondGroupOfBusinessRules)
+        1. [<yetAnotherGroupBusinessRule>](#yetAnotherGroupBusinessRule)
+        2. [<andAnotherGroupBusinessRule>](#andAnotherGroupBusinessRule)
 
 Business Rules
 --------------
@@ -75,3 +75,4 @@ Business Rules
 
 ##### 2.4.2 <andAnotherGroupBusinessRule>
 [The definition for the term is presented here, with as much information as the reader needs to understand the concept.]
+<a name="introduction"></a>
