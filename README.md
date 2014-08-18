@@ -3,7 +3,7 @@ wishlist
 
 This is a brief document that specify the sources of search for document filing
 
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 
 [Templates](http://sce.uhcl.edu/helm/rationalunifiedprocess/process/templates.htm)
 -------------
@@ -25,4 +25,5 @@ Markdown
 
 * [Style Guide](https://github.com/carwin/markdown-styleguide)
 * [Guideline](https://github.com/rails/rails/blob/master/guides/source/active_record_basics.md)
+* [Markdown Tables](http://www.tablesgenerator.com/markdown_tables)
 

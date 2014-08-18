@@ -53,65 +53,74 @@ Table of Contents
 Business Vision
 ---------------
 
-1. Introduction <a name="#introduction"></a>
+### 1. Introduction
+[The introduction of the Business Vision provides an overview of the entire document. It includes the
+purpose, scope, definitions, acronyms, abbreviations, references, and overview of the Business
+Vision.]
 
-The introduction of the Business Vision provides an overview of the entire document. It includes the purpose, scope, definitions, acronyms, abbreviations, references, and overview of the Business Vision.]
-
-1.1 Purpose <a name="#purpose"></a>
-
+#### 1.1 Purpose
 [Specify the purpose of this Business Vision document.]
 
-1.2 Scope <a name="#scope"></a>
+#### 1.2 Scope
+[A brief description of the scope of this Business Vision document; what Project(s) it is associated
+[with and anything else that is affected or influenced by this document.]
 
-[A brief description of the scope of this Business Vision document; what Project(s) it is associated with and anything else that is affected or influenced by this document.]
+#### 1.3 Definitions, Acronyms, and Abbreviations
+[This subsection provides the definitions of all terms, acronyms, and abbreviations required to
+[properly interpret the Business Vision document.  This information may be provided by reference to
+[the project's Glossary.]
 
-1.3 Definitions, Acronyms, and Abbreviations <a name="#definitions"></a>
+#### 1.4 References
+[This subsection provides a complete list of all documents referenced elsewhere in the Business
+[Vision.  Identify each document by title, report number if applicable, date, and publishing
+[organization.  Specify the sources from which the references can be obtained. This information may
+[be provided by reference to an appendix or to another document.]
 
-[This subsection provides the definitions of all terms, acronyms, and abbreviations required to properly interpret the Business Vision document.  This information may be provided by reference to the project's Glossary.]
+#### 1.5 Overview
+[This subsection describes what the rest of the Business Vision contains and explains how the
+[document is organized.]
 
-1.4 References <a name="#references"></a>
+### 2. Positioning
 
-[This subsection provides a complete list of all documents referenced elsewhere in the Business Vision.  Identify each document by title, report number if applicable, date, and publishing organization.  Specify the sources from which the references can be obtained. This information may be provided by reference to an appendix or to another document.]
-
-1.5 Overview <a name="#overview"></a>
-
-[This subsection describes what the rest of the Business Vision contains and explains how the document is organized.]
-
-2.    Positioning <a name="#positioning"></a>
-
-2.1 Business Opportunity
-
+#### 2.1 Business Opportunity
 [Briefly describe the business opportunity being met by this project.]
 
-2.2 Problem Statement
+#### 2.2 Problem Statement
+[Provide a statement summarizing the problem being solved by this project. The following format may
+[be used:]
 
-[Provide a statement summarizing the problem being solved by this project. The following format may be used:]
+| The problem of [describe the problem] | affects [who are the stakeholders affected by the
+| problem?] | the impact of which is [what is the impact of the problem?] | a successful solution
+| would be [list some key benefits of a successful solution] |
 
-| The problem of | [describe the problem] |
-| affects | [who are the stakeholders affected by the problem?] |
-| the impact of which is | [what is the impact of the problem?] |
-| a successful solution would be | [list some key benefits of a successful solution] |
+#### 2.3 Product Position Statement
+[Provide an overall statement summarizing, at the highest level, the unique position the product
+[intends to fill in the marketplace. The following format may be used:]
 
-2.3 Product Position Statement
+| For [target customer] | Who [statement of the need or opportunity] | The (product name) is a
+| [product category] | That [statement of key benefit; that is, what is the compelling reason to
+| buy?] | Unlike [primary competitive alternative] | Our product [statement of primary
+| differentiation] |
 
-[Provide an overall statement summarizing, at the highest level, the unique position the product intends to fill in the marketplace. The following format may be used:]
+[A product position statement communicates the intent of the application and the importance of the
+[project to all concerned personnel.]
 
-| For | [target customer] |
-| Who | [statement of the need or opportunity] |
-| The (product name) | is a [product category] |
-| That | [statement of key benefit; that is, what is the compelling reason to buy?] |
-| Unlike | [primary competitive alternative] |
-| Our product | [statement of primary differentiation] |
+### 3.    Stakeholder and Customer Descriptions
+[To effectively provide products and services that meet your stakeholders’ and users' real needs, it
+[is necessary to identify and involve all of the stakeholders as part of the Business Modeling
+[process.  You must also identify the users of the system and ensure that the stakeholder community
+[adequately represents them.  This section provides a profile of the stakeholders and users involved
+[in the project and the key problems that they perceive to be addressed by the proposed solution.
+[It does not describe their specific requests or requirements as these are captured in a separate
+[stakeholder requests artifact.  Instead it provides the background and justification for why the
+[requirements are needed.]
 
-[A product position statement communicates the intent of the application and the importance of the project to all concerned personnel.]
-
-3.    Stakeholder and Customer Descriptions
-
-[To effectively provide products and services that meet your stakeholders’ and users' real needs, it is necessary to identify and involve all of the stakeholders as part of the Business Modeling process.  You must also identify the users of the system and ensure that the stakeholder community adequately represents them.  This section provides a profile of the stakeholders and users involved in the project and the key problems that they perceive to be addressed by the proposed solution.  It does not describe their specific requests or requirements as these are captured in a separate stakeholder requests artifact.  Instead it provides the background and justification for why the requirements are needed.]
-
-3.1 Market Demographics
-
-[Summarize the key market demographics that motivate your product decisions. Describe and position target market segments. Estimate the market’s size and growth by using the number of potential users, or the amount of money your customers spend trying to meet needs that your product or enhancement would fulfill. Review major industry trends and technologies. Answer these strategic questions:
+#### 3.1 Market Demographics
+[Summarize the key market demographics that motivate your product decisions. Describe and position
+[target market segments. Estimate the market’s size and growth by using the number of potential
+[users, or the amount of money your customers spend trying to meet needs that your product or
+[enhancement would fulfill. Review major industry trends and technologies. Answer these strategic
+[questions:
 
 • What is your organization’s reputation in these markets?
 
@@ -119,24 +128,32 @@ The introduction of the Business Vision provides an overview of the entire docum
 
 • How does this product or service support your goals?]
 
-3.2 Stakeholder Summary
+#### 3.2 Stakeholder Summary
+[There are a number of stakeholders with an interest in the development and not all of them are end
+[users. Present a summary list of these non-user stakeholders. (The users are summarized in section
+[3.3.)]
 
-[There are a number of stakeholders with an interest in the development and not all of them are end users. Present a summary list of these non-user stakeholders. (The users are summarized in section 3.3.)]
+| Name Description Responsibilities | [Name the stakeholder type.] [Briefly describe the
+| stakeholder.] [Summarize the stakeholder's key responsibilities with regard to the system being
+| developed; that is, their interest as a stakeholder. For example, this stakeholder:- ensures that
+| the system will be maintainable- ensures that there will be a market demand for the product's
+| features- monitors the project's progress - approves funding- and so forth] |
 
-| Name | Description | Responsibilities |
-| [Name the stakeholder type.] | [Briefly describe the stakeholder.] | [Summarize the stakeholder's key responsibilities with regard to the system being developed; that is, their interest as a stakeholder. For example, this stakeholder:- ensures that the system will be maintainable- ensures that there will be a market demand for the product's features- monitors the project's progress - approves funding- and so forth] |
-
-3.3 Customer Summary
-
+#### 3.3 Customer Summary
 [Present a summary list of all identified users.]
 
-| Name | Description | Responsibilities | Stakeholder |
-|:---------------------:|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| [Name the user type.] | [Briefly describe what they represent with respect to the system.] | [List the user's key responsibilities with regard to the system being developed; for example:- captures details- produces reports- coordinates work- and so on] | [If the user is not directly represented, identify which stakeholder is responsible for representing the user's interests.] |
- 
+| Name | Description | Responsibilities | Stakeholder | |:---------------------:|-------------------
+-------------------------------------------------|--------------------------------------------------
+----------------------------------------------------------------------------------------------------
+-----------|----------------------------------------------------------------------------------------
+-------------------------------------| | [Name the user type.] | [Briefly describe what they
+represent with respect to the system.] | [List the user's key responsibilities with regard to the
+system being developed; for example:- captures details- produces reports- coordinates work- and so
+on] | [If the user is not directly represented, identify which stakeholder is responsible for
+representing the user's interests.] |
 
-3.4 Customer Environment
 
+#### 3.4 Customer Environment
 [Detail the working environment of the target user. Here are some suggestions:
 
 Number of people involved in completing the task? Is this changing?
@@ -149,16 +166,18 @@ Which systems platforms are in use today? Future platforms?
 
 What other applications are in use? Does your application need to integrate with them?
 
-This is where extracts from the Business Model could be included to outline the task and business workers involved, and so on.]
+This is where extracts from the Business Model could be included to outline the task and business
+workers involved, and so on.]
 
-3.5 Stakeholder Profiles 
+#### 3.5 Stakeholder Profiles
+[Describe each stakeholder in the system here by filling in the following table for each
+[stakeholder. Remember that stakeholder types can be as divergent as users, departments, and
+[technical developers. A thorough profile would cover the following topics for each type of
+[stakeholder.]
 
-[Describe each stakeholder in the system here by filling in the following table for each stakeholder. Remember that stakeholder types can be as divergent as users, departments, and technical developers. A thorough profile would cover the following topics for each type of stakeholder.]
-
-3.5.1 <Stakeholder Name>
-Representative
-
-[Who is the stakeholder representative to the project?  (This is optional if documented elsewhere.)  What we want here is names.]
+##### 3.5.1 <Stakeholder Name> Representative
+[Who is the stakeholder representative to the project?  (This is optional if documented elsewhere.)
+[What we want here is names.]
 
 Description
 
@@ -166,11 +185,13 @@ Description
 
 Type
 
-[Qualify the stakeholder’s expertise, technical background, and degree of sophistication—that is, guru, business, expert, casual user, and so on.]
+[Qualify the stakeholder’s expertise, technical background, and degree of sophistication—that is,
+[guru, business, expert, casual user, and so on.]
 
 Responsibilities
 
-[List the stakeholder’s key responsibilities with regard to the system being developed—that is, their interest as a stakeholder.]
+[List the stakeholder’s key responsibilities with regard to the system being developed—that is,
+[their interest as a stakeholder.]
 
 Success Criteria
 
@@ -180,24 +201,26 @@ How is the stakeholder rewarded?]
 
 Involvement
 
-[How is the stakeholder involved in the project? Relate where possible to the Rational Unified Process roles—that is, Requirements Reviewer, and so on.]
+[How is the stakeholder involved in the project? Relate where possible to the Rational Unified
+[Process roles—that is, Requirements Reviewer, and so on.]
 
 Deliverables
 
-[Are there any additional deliverables required by the stakeholder?  These could be project deliverables or outputs from the system under development.]
+[Are there any additional deliverables required by the stakeholder?  These could be project
+[deliverables or outputs from the system under development.]
 
 Comments / Issues
 
 [Problems that interfere with success and any other relevant information go here.]
 
-3.6 Customer Profiles 
+#### 3.6 Customer Profiles
+[Describe each unique user of the system here by filling in the following table for each customer
+[type.  A thorough profile covers the following topics for each type of user:]
 
-[Describe each unique user of the system here by filling in the following table for each customer type.  A thorough profile covers the following topics for each type of user:]
-
-3.6.1 <Customer Name>
-Representative
-
-[Who is the user representative to the project?  (This is optional if documented elsewhere.)  This often refers to the Stakeholder that represents the set of users; for example, Stakeholder: Stakeholder1.]
+##### 3.6.1 <Customer Name> Representative
+[Who is the user representative to the project?  (This is optional if documented elsewhere.)  This
+[often refers to the Stakeholder that represents the set of users; for example, Stakeholder:
+[Stakeholder1.]
 
 Description
 
@@ -205,21 +228,24 @@ Description
 
 Type
 
-[Qualify the customer’s expertise, technical background, and degree of sophistication—that is, guru, casual user, and so on.]
+[Qualify the customer’s expertise, technical background, and degree of sophistication—that is, guru,
+[casual user, and so on.]
 
 Responsibilities
 
-[List the user’s key responsibilities with regards to the system being developed— that is, captures customers details, produces reports, coordinates work, and so on.]
+[List the user’s key responsibilities with regards to the system being developed— that is, captures
+[customers details, produces reports, coordinates work, and so on.]
 
 Success Criteria
 
 [How does the customer define success?
 
- How is the customer rewarded?]
+ Howisthecustomerrewarded?]
 
 Involvement
 
-[How the customer is involved in the project? Relate where possible to the Rational Unified Process roles—that is, Requirements Reviewer, and so on.]
+[How the customer is involved in the project? Relate where possible to the Rational Unified Process
+[roles—that is, Requirements Reviewer, and so on.]
 
 Deliverables
 
@@ -231,9 +257,9 @@ Comments / Issues
 
 These include trends that make the customer’s job easier or more difficult.]
 
-3.7 Key Stakeholder or Customer Needs
-
-[List the key problems with existing solutions as perceived by the stakeholder. Clarify the following issues for each problem:
+#### 3.7 Key Stakeholder or Customer Needs
+[List the key problems with existing solutions as perceived by the stakeholder. Clarify the
+[following issues for each problem:
 
 • What are the reasons for this problem?
 
@@ -241,9 +267,12 @@ These include trends that make the customer’s job easier or more difficult.]
 
 • What solutions does the user want?]
 
-[It is important to understand the relative importance the stakeholder places on solving each problem. Ranking and cumulative voting techniques indicate problems that must be solved versus issues they would like addressed.
+[It is important to understand the relative importance the stakeholder places on solving each
+[problem. Ranking and cumulative voting techniques indicate problems that must be solved versus
+[issues they would like addressed.
 
-Fill in the following table—if using Rational RequisitePro to capture the Needs, this could be an extract or report from that tool.]
+Fill in the following table—if using Rational RequisitePro to capture the Needs, this could be an
+extract or report from that tool.]
 
 Need
 
@@ -257,48 +286,53 @@ Proposed Solutions
 
 Broadcast messages
 
-    
-3.8 Alternatives and Competition
 
-[Identify alternatives the stakeholder perceives as available. These can include buying a competitor’s product, building a homegrown solution or simply maintaining the status quo. List any known competitive choices that exist or may become available. Include the major strengths and weaknesses of each competitor as perceived by the stakeholder.]
-4.    Business Modeling Objectives
+### 3.8 Alternatives and Competition
+[Identify alternatives the stakeholder perceives as available. These can include buying a
+competitor’s product, building a homegrown solution or simply maintaining the status quo. List any
+known competitive choices that exist or may become available. Include the major strengths and
+weaknesses of each competitor as perceived by the stakeholder.] 4.    Business Modeling Objectives
 
-4.1 <anObjective>
+### 4. Objetivos da Modelagem de Negócios
+#### 4.1 <anObjective>
+#### 4.2 <anotherObjective>
 
-4.2 <anotherObjective>
+### 5. Constraints
+[Note any design constraints, external constraints or other dependencies.]
 
-5.    Constraints
+### 6. Quality Ranges
+[Define the quality ranges for performance, robustness, fault tolerance, usability, and similar
+[characteristics that are not captured in the objectives.]
 
- [Note any design constraints, external constraints or other dependencies.]
-
-6.    Quality Ranges
-
-[Define the quality ranges for performance, robustness, fault tolerance, usability, and similar characteristics that are not captured in the objectives.]
-
-7.    Precedence and Priority
-
+### 7. Precedence and Priority
 [Define the priority of the different objectives.]
 
-8.    Other Requirements
+### 8. Other Requirements
+[At a high-level, list applicable standards, hardware or platform requirements, performance
+[requirements, and environmental requirements.]
 
-[At a high-level, list applicable standards, hardware or platform requirements, performance requirements, and environmental requirements.]
+#### 8.1 Applicable Standards
+[List all standards with which the business must comply. These can include legal and regulatory
+[(FDA, UCC) communications standards (TCP/IP, ISDN), platform compliance standards (Windows, Unix,
+[and so on), and quality and safety standards (UL, ISO, CMM).]
 
-8.1 Applicable Standards
+#### 8.2 System Requirements
+[Define any system requirements necessary to support the application. These can include the
+[supported host operating systems and network platforms, configurations, memory, peripherals, and
+[companion software.]
 
-[List all standards with which the business must comply. These can include legal and regulatory (FDA, UCC) communications standards (TCP/IP, ISDN), platform compliance standards (Windows, Unix, and so on), and quality and safety standards (UL, ISO, CMM).]
+#### 8.3 Performance Requirements
+[Use this section to detail performance requirements. Performance issues can include such items as
+[user load factors, bandwidth or communication capacity, throughput, accuracy, and reliability or
+[response times under a variety of loading conditions.]
 
-8.2 System Requirements
+#### 8.4 Environmental Requirements
+[Detail environmental requirements as needed. For hardware based systems, environmental issues can
+[include temperature, shock, humidity, radiation, and so on. For software applications,
+[environmental factors can include usage conditions, user environment, resource availability,
+[maintenance issues, and error handling and recovery.]
 
-[Define any system requirements necessary to support the application. These can include the supported host operating systems and network platforms, configurations, memory, peripherals, and companion software.]
-
-8.3 Performance Requirements
-
-[Use this section to detail performance requirements. Performance issues can include such items as user load factors, bandwidth or communication capacity, throughput, accuracy, and reliability or response times under a variety of loading conditions.]
-
-8.4 Environmental Requirements
-
-[Detail environmental requirements as needed. For hardware based systems, environmental issues can include temperature, shock, humidity, radiation, and so on. For software applications, environmental factors can include usage conditions, user environment, resource availability, maintenance issues, and error handling and recovery.]
-
- Appendix A—Objective Attributes
-
-[Objectives should be given attributes used to evaluate, track, prioritize, and manage the product items proposed for implementation. List and briefly describe the attributes you have chosen.  See the Artifact:  Requirement Management Plan for a set of suggested feature attributes.]
+### 9. AppendixA—ObjectiveAttributes
+[Objectives should be given attributes used to evaluate, track, prioritize, and manage the product
+[items proposed for implementation. List and briefly describe the attributes you have chosen.  See
+[the Artifact:  Requirement Management Plan for a set of suggested feature attributes.]
