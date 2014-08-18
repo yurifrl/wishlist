@@ -10,50 +10,50 @@ Revision History
 
 |    Date       | Version   | Description   | Author    |
 |:----------:   |:-------:  |:-----------:  |:------:   |
-| [dd/mm/yy]    |  [x.x]    |  [details]    | [name]    |
+| <dd/mm/yy>    |  <x.x>    |  <details>    | <name>    |
 |               |           |               |           |
 |               |           |               |           |
 
 Table of Contents
 -----------------
-1. Introduction         
-    1. Purpose     
-    2. Scope     
-    3. Definitions, Acronyms, and Abbreviations     
-    4. References     
-    5. Overview      
-2.Positioning         
-    1. Business Opportunity     
-    2. Problem Statement     
-    3. Product Position Statement      
-3. Stakeholder and Customer Descriptions  
-    1. Market Demographics     
-    2. Stakeholder Summary     
-    3. Customer Summary     
-    4. Customer Environment     
-    5. Stakeholder Profiles     
-        1. <Stakeholder Name> 
-    6. Customer Profiles     
-        1. <Customer Name>  
-    7. Key Stakeholder or Customer Needs     
-    8. Alternatives and Competition      
-4. Business Modeling Objectives     
-    1. <anObjective>     
-    2. <anotherObjective>     
-5. Constraints         
-6. Quality Ranges
-7. Precedence and Priority
-8. Other Requirements
-    1. Applicable Standards     
-    2. System Requirements     
-    3. Performance Requirements     
-    4. Environmental Requirements     
-9. Appendix A—Objective Attributes     
+1. [Introduction](#Introduction)
+    1. [Purpose](#Purpose)
+    2. [Scope](#Scope)
+    3. [Definitions, Acronyms, and Abbreviations](#Definitions, Acronyms, and Abbreviations)
+    4. [References](#References)
+    5. [Overview](#Overview)
+2. [Positioning](#Positioning)
+    1. [Business Opportunity](#Business Opportunity)
+    2. [Problem Statement](#Problem Statement)
+    3. [Product Position Statement](#Product Position Statement)
+3. [Stakeholder and Customer Descriptions](#Stakeholder and Customer Descriptions)
+    1. [Market Demographics](#Market Demographics)
+    2. [Stakeholder Summary](#Stakeholder Summary)
+    3. [Customer Summary](#Customer Summary)
+    4. [Customer Environment](#Customer Environment)
+    5. [Stakeholder Profiles](#Stakeholder Profiles)
+        1. [<Stakeholder Name>](#<Stakeholder Name>)
+    6. [Customer Profiles](#Customer Profiles)
+        1. [<Customer Name>](#<Customer Name>)
+    7. [Key Stakeholder or Customer Needs](#Key Stakeholder or Customer Needs)
+    8. [Alternatives and Competition](#Alternatives and Competition)
+4. [Business Modeling Objectives](#Business Modeling Objectives)
+    1. [<anObjective>](#<anObjective>)
+    2. [<anotherObjective>](#<anotherObjective>)
+5. [Constraints](#Constraints)
+6. [Quality Ranges](#Quality Ranges)
+7. [Precedence and Priority](#Precedence and Priority)
+8. [Other Requirements](#Other Requirements)
+    1. [Applicable Standards](#Applicable Standards)
+    2. [System Requirements](#System Requirements)
+    3. [Performance Requirements](#Performance Requirements)
+    4. [Environmental Requirements](#Environmental Requirements)
+9. [Appendix A—Objective Attributes](#Appendix A—Objective Attributes)
 
 Business Vision
 ---------------
 
-1.    Introduction
+1. Introduction
 
 The introduction of the Business Vision provides an overview of the entire document. It includes the purpose, scope, definitions, acronyms, abbreviations, references, and overview of the Business Vision.]
 

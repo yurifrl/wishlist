@@ -10,7 +10,7 @@ Revision History
 
 |    Date       | Version   | Description   | Author    |
 |:----------:   |:-------:  |:-----------:  |:------:   |
-| [dd/mm/yy]    |  [x.x]    |  [details]    | [name]    |
+| <dd/mm/yy>    |  <x.x>    |  <details>    | <name>    |
 |               |           |               |           |
 |               |           |               |           |
 
