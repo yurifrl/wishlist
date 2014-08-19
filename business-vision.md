@@ -83,6 +83,15 @@ Business Vision
 
 ### 3. Stakeholder and Customer Descriptions
     #### 3.1 Market Demographics
+    [Summarize the key market demographics that motivate your product decisions. Describe and position target market segments.
+    Estimate the market’s size and growth by using the number of potential users,
+    or the amount of money your customers spend trying to meet needs that your product or enhancement would fulfill.
+    Review major industry trends and technologies. Answer these strategic questions:
+
+    * What is your organization’s reputation in these markets?
+    * What would you like it to be?
+    * How does this product or service support your goals?]
+
     #### 3.2 Stakeholder Summary *
     |             Nome             | Descrição                           | Resposabilidade                                                         |
     |:----------------------------:|-------------------------------------|-------------------------------------------------------------------------|
